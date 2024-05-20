@@ -2,8 +2,10 @@
 Project idea: Wiki for Champions in League of Legends
 
 Base Requirements (Bare minimum for next sprint):
-1: Every champion should have their base stats at level 1 (auto attack range, auto attack windup, armor, magic resist, hp, AD, AP, etc.) and release date, recorded and stored in a data base.
-2: Database is able to be queried for things like, "List all champions in order of their auto attack range" and will output that list.
+
+- Every champion should have their base stats at level 1 (auto attack range, auto attack windup, armor, magic resist, hp, AD, AP, etc.) and release date, recorded and stored in a data base.
+
+- Database is able to be queried for things like, "List all champions in order of their auto attack range" and will output that list.
 
 The reason behind these base requirements is not just as a means to start building a database and to be able to submit queries to it in a simple way, it's also because this sort of tool would be extremely helpful for me to be able to talk about the game to other people, team mates, coaches, etc, and to help me ask questions and get fast answers. While all of this information is already publicly availiable, there is no tool that will generate a list of these stats automatically, only tables that might be up on the fandom wiki for the game if somebody chose to put it there. A large goal of mine would be to build the tool to be able to answer questions and generate tables of information quickly.
 
