@@ -2,7 +2,7 @@ CREATE DATABASE IF NOT EXISTS game_database;
 USE game_database;
 
 CREATE TABLE IF NOT EXISTS champion (
-    name VARCHAR(100) NOT NULL PRIMARY KEY,
+    name VARCHAR(100) PRIMARY KEY,
     auto_attack_range INT NOT NULL,
     level INT NOT NULL
 );
