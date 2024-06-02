@@ -1,4 +1,5 @@
 # CSC-370-Project
+
 Project idea: Wiki for Champions in League of Legends
 
 Base Requirements (Bare minimum for next sprint):
