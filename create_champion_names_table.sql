@@ -1,7 +1,7 @@
 CREATE DATABASE IF NOT EXISTS game_database;
 USE game_database;
 
-CREATE TABLE IF NOT EXISTS champion (
+CREATE TABLE IF NOT EXISTS champion_names (
     name VARCHAR(100) PRIMARY KEY
 );
 
