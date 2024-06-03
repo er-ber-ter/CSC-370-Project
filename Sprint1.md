@@ -28,7 +28,7 @@ While I previously developed a concept for what I think the wiki could be, I did
 
 - Basic Conceptual Design (Uses ERD Components, Applies ERD Constraints)
 
-Over the next sprint, I would like to accurately define goals and requirements of the wiki, and to use those requirements to identify what types of data I need, what entities I need to add, and what constraints I should place on the entities.
+Over the next sprint, I would like to accurately define goals and requirements of the wiki, and to use those requirements to identify what types of data I need, what entities I need to add, and what constraints I should place on the entities. Using that work, I'd like to actually create an ERD for my wiki, and maintain it as the project develops.
 
 - Relational Data Model (Keys, BCNF-normalizations, referential integrity)
 
