@@ -1,6 +1,6 @@
 ALTER TABLE champion
 ADD COLUMN title VARCHAR(100);
 
-UPDATE champion AS c
-JOIN champion_names AS cn ON c.name = cn.name
-SET c.title = cn.title;
+UPDATE champion
+JOIN champion_names ON champion.name = champion_names.name
+SET champion.title = champion_names.title;
